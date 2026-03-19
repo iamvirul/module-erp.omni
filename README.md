@@ -4,12 +4,12 @@ A Ballerina library providing a **Canonical Data Model (CDM)** and **Unified Int
 
 ## Features
 
-✅ **Canonical Records** - Standardized business objects (PurchaseOrder, Invoice, Customer, Vendor, Product)  
-✅ **Abstract ErpClient** - Unified interface for all ERP operations  
-✅ **Transformer Utilities** - Safe JSON extraction and data mapping helpers  
-✅ **Custom Error Types** - Categorized errors for robust error handling  
-✅ **Type Safety** - Leverages Ballerina's type system for data integrity  
-✅ **Extensible** - Easy to add new ERP vendors without changing core logic  
+- **Canonical Records** - Standardized business objects (PurchaseOrder, Invoice, Customer, Vendor, Product)  
+- **Abstract ErpClient** - Unified interface for all ERP operations  
+- **Transformer Utilities** - Safe JSON extraction and data mapping helpers  
+- **Custom Error Types** - Categorized errors for robust error handling  
+- **Type Safety** - Leverages Ballerina's type system for data integrity  
+- **Extensible** - Easy to add new ERP vendors without changing core logic  
 
 ## Installation
 
